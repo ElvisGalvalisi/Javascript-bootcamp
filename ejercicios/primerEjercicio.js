@@ -7,4 +7,4 @@ const libroFav = {
     url: 'https://www.planetadelibros.com/libro-el-codigo-da-vinci/253479#soporte/253283'
 }
 
-const lista = ["Elvis Galvalisi", 34, true,  fechaNacimiento,  ]
+const lista = ["Elvis Galvalisi", 34, true,  fechaNacimiento, libroFav ]
